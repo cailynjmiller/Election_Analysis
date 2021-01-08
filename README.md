@@ -56,5 +56,5 @@ candidate_name = row[2]
 county_name = row[1]
 ```
 
-Once the variables file_to_load, file_to_save, candidate_name, and county_name are updated for the election data file being used, the script will do the rest of the work for you! This script will loop through any data file you provide and count the number of votes per candidate and county and place this information in a dictionary. The script will then calculate the percentage of votes for each candidate and county and print the candidate and county who recieved the most votes.<br/>
-![SS of Text File](https://github.com/cailynjmiller/Election_Analysis/blob/main/Resources/Screen%20Shot%202021-01-08%20at%205.37.26%20PM.png)<br/>
+Once the variables file_to_load, file_to_save, candidate_name, and county_name are updated for the election data file being used, the script will do the rest of the work for you! This script will loop through any data file you provide and count the number of votes per candidate and county and place this information in a dictionary. The script will then calculate the percentage of votes for each candidate and county and print the candidate and county who recieved the most votes.<br/><br/>
+![SS of Text File](https://github.com/cailynjmiller/Election_Analysis/blob/main/Resources/Screen%20Shot%202021-01-08%20at%205.37.26%20PM.png)
