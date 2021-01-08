@@ -21,7 +21,7 @@ The county results were:
 - Denver County contributed to 82.8% of the final vote with 272,892 number of votes.
 - Arapahoe County contributed to 6.7% of the final vote with 24,801 number of votes.
 
-**The County with the largest number of votes was Denver County.**
+**The county with the largest number of votes was Denver County.**
 
 The candidate results were:
 - Charles Casper recieved 23% of the final vote and 85,213 number of votes.
