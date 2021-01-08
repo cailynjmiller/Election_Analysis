@@ -21,14 +21,14 @@ The county results were:
 - Denver County contributed to 82.8% of the final vote with 272,892 number of votes.
 - Arapahoe County contributed to 6.7% of the final vote with 24,801 number of votes.
 
-The County with the largest number of votes was Denver County
+**The County with the largest number of votes was Denver County.**
 
 The candidate results were:
 - Charles Casper recieved 23% of the final vote and 85,213 number of votes.
 - Diana DeGette recieved 73.8% of the final vote and 272,892 number of votes.
 - Candidate 3 recieved 3.1% of the final vote and 11,606 number of votes.
  
- The winner of the election was Diana Degette with 73.8% of the final vote and 272,892 number of votes.
+**The winner of the election was Diana Degette with 73.8% of the final vote and 272,892 number of votes.**
 
 ## Election-Audit Summary
 The script I wrote for this election audit can be easily modified and used for any other election. I propose you use this script for future elections to save time and avoid errors.
