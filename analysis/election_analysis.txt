@@ -5,9 +5,9 @@ Total Votes: 369,711
 -------------------------
 
 County Votes:
-Jefferson:10.5% (38855 votes)
-Denver:82.8% (306055 votes)
-Arapahoe:6.7% (24801 votes)
+Jefferson: 10.5% (38,855 votes)
+Denver: 82.8% (306,055 votes)
+Arapahoe: 6.7% (24,801 votes)
 
 -------------------------
 Largest County Turnout: Denver
